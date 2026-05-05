@@ -1,0 +1,9 @@
+Source City,Source Lat,Source Long,Destination City,Dest Lat,Dest Long,Flights,Airline
+Delhi,28.6139,77.209,Mumbai,19.076,72.8777,120,IndiGo
+Delhi,28.6139,77.209,Bengaluru,12.9716,77.5946,95,Air India
+Mumbai,19.076,72.8777,Chennai,13.0827,80.2707,90,Vistara
+Mumbai,19.076,72.8777,Hyderabad,17.385,78.4867,85,SpiceJet
+Bengaluru,12.9716,77.5946,Kolkata,22.5726,88.3639,70,Akasa Air
+Chennai,13.0827,80.2707,Delhi,28.6139,77.209,110,IndiGo
+Hyderabad,17.385,78.4867,Mumbai,19.076,72.8777,100,Air India
+Kolkata,22.5726,88.3639,Delhi,28.6139,77.209,80,Vistara
